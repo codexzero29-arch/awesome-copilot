@@ -1,7 +1,7 @@
 name: External plugin submission 
 description: Submit a public GitHub-hosted external plugin for marketplace review.
 title: "[External Plugin]: "
-labels:
+labels: 
   - external-plugin
   - awaiting-review
 body:
