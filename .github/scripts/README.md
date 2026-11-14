@@ -1,4 +1,4 @@
-# Repository scripts
+# Repository scripts 
 
 Scripts are grouped by the repository area they maintain. Tests live alongside their subject; canvas board tests are grouped under `canvas/boards/` without being bundled into the extensions.
 
